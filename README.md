@@ -1,7 +1,6 @@
-## Hi there 👋 Thank you for visiting ! 🙏
-### About me
-name: 🙋‍♂️ komura-c (Yuki Ishii)  
-skills: 🔆 Web Frontend | 💪 Angular | 💪 JavaScript | 👍 TypeScript | Python | Ruby and so on...
+## Hi there 👋  Thank you for visiting ! 🙏
+## komura-c (Yuki Ishii) 🙋‍♂️
+### 🔆 Web Frontend | 💪 Angular | 💪 JavaScript | 👍 TypeScript | Python | Ruby and so on...
 
 
 <!--
