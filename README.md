@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 Thank you for visiting ! 🙏
+### About me
+name: 🙋‍♂️ komura-c (Yuki Ishii)  
+skills: 🔆 Web Frontend | 💪 Angular | 💪 JavaScript | 👍 TypeScript | Python | Ruby and so on...
+
 
 <!--
 **komura-c/komura-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
