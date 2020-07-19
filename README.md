@@ -1,5 +1,5 @@
 ## Hi there 👋 Thank you for visiting ! 🙏
-## 🙋‍♂️ komura-c (Yuki Ishii)
+## 🙋‍♂️ komura-c
 ### 🔆 Web Frontend | 💪 Angular | 💪 JavaScript | 👍 TypeScript | Python | Ruby and so on...
 
 
