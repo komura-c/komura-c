@@ -1,6 +1,6 @@
-## Hi there, I'm komura-c 👋
+### Hi there, I'm komura-c 👋
 I'm **Frontend web developer** from Japan.
-### Skills
+#### Skills
 ★★★ Angular | HTML5 | CSS3 | JavaScript  
 ★★☆ TypeScript | Git / GitHub  
 ★☆☆ Python | Ruby  
